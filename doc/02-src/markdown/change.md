@@ -1,0 +1,5 @@
+2018年3月20日14:59:20
+更新数据库表结构
+jf_detail_repeat 清单查重表增加创建时间字段create_tie
+ib_acc_billrepeat 累账查重表增加创建时间字段create_time
+ib_bill_rec 出账结果表增加创建时间字段create_time 和 更新时间字段 updateTime
